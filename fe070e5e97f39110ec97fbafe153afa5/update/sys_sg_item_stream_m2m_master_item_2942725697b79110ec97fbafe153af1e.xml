@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Skill list stream">6941f21697b79110ec97fbafe153af49</item_stream>
+        <master_item display_value="my Skill list item config">e942725697b79110ec97fbafe153af1b</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 14:34:54</sys_created_on>
+        <sys_id>2942725697b79110ec97fbafe153af1e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_2942725697b79110ec97fbafe153af1e</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

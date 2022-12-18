@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>10</condition_order>
+        <datasource_table>sys_user_has_skill</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen/>
+        <item_view/>
+        <name>my Skill list item config</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 14:34:54</sys_created_on>
+        <sys_id>e942725697b79110ec97fbafe153af1b</sys_id>
+        <sys_name>my Skill list item config</sys_name>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_master_item_e942725697b79110ec97fbafe153af1b</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="my Skill view config">6d42769297b79110ec97fbafe153af52</view_config>
+    </sys_sg_master_item>
+</record_update>

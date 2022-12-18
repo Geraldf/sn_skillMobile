@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 14:45:28</sys_created_on>
+        <sys_id>9cb4f25697b79110ec97fbafe153af20</sys_id>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_9cb4f25697b79110ec97fbafe153af20</sys_update_name>
+        <view_config display_value="my Skill view config">6d42769297b79110ec97fbafe153af52</view_config>
+        <view_template_slot display_value="text_01">4fd3ba9697b79110ec97fbafe153af4d</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

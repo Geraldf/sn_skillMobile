@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Card to show the skills of a user</description>
+        <name>my Skill view config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 14:34:54</sys_created_on>
+        <sys_id>6d42769297b79110ec97fbafe153af52</sys_id>
+        <sys_name>my Skill view config</sys_name>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_view_config_6d42769297b79110ec97fbafe153af52</sys_update_name>
+        <table>sys_user_has_skill</table>
+        <template display_value="My skill  card template">1142769297b79110ec97fbafe153af50</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d42769297b79110ec97fbafe153af52"/>
+</record_update>

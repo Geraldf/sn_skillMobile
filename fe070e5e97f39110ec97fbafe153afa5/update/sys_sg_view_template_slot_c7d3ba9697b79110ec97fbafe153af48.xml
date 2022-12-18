@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_02</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 14:41:50</sys_created_on>
+        <sys_id>c7d3ba9697b79110ec97fbafe153af48</sys_id>
+        <sys_name>text_02</sys_name>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_c7d3ba9697b79110ec97fbafe153af48</sys_update_name>
+        <type>text</type>
+        <view_template display_value="My skill  card template">1142769297b79110ec97fbafe153af50</view_template>
+    </sys_sg_view_template_slot>
+</record_update>
