@@ -13,6 +13,6 @@
         <sys_update_name>sys_sg_ui_rule_action_1d73d3d2973b9110ec97fbafe153afff</sys_update_name>
         <target>container_05</target>
         <ui_rule display_value="Mark Inherited">9a22df12973b9110ec97fbafe153afaa</ui_rule>
-        <value>{"BackgroundColor":"#F0E000"}</value>
+        <value>{"BackgroundColor":"#CBE9FC"}</value>
     </sys_sg_ui_rule_action>
 </record_update>

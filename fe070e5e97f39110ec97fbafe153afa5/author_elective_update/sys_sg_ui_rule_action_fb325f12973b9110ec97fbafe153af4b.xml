@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="DELETE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order>10</order>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 16:54:36</sys_created_on>
+        <sys_id>fb325f12973b9110ec97fbafe153af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_fb325f12973b9110ec97fbafe153af4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-18 16:54:36</sys_updated_on>
+        <target>text_02</target>
+        <ui_rule display_value="Mark Inherited">9a22df12973b9110ec97fbafe153afaa</ui_rule>
+        <value>{"BackgroundColor":""}</value>
+    </sys_sg_ui_rule_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_ui_rule_action_fb325f12973b9110ec97fbafe153af4b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action"><sys_sg_ui_rule_action action="INSERT_OR_UPDATE"><operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation><order>10</order><sys_class_name>sys_sg_ui_rule_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-18 16:54:36</sys_created_on><sys_id>fb325f12973b9110ec97fbafe153af4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package><sys_policy/><sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope><sys_update_name>sys_sg_ui_rule_action_fb325f12973b9110ec97fbafe153af4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-18 16:54:36</sys_updated_on><target>text_02</target><ui_rule display_value="Mark Inherited">9a22df12973b9110ec97fbafe153afaa</ui_rule><value>{"BackgroundColor":""}</value></sys_sg_ui_rule_action></record_update>]]></payload>
+        <payload_hash>-1606564272</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cf07429e97f39110ec97fbafe153afe6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 16:54:36</sys_created_on>
+        <sys_id>3f325f12973b9110ec97fbafe153af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1852628a5e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-18 16:54:36</sys_updated_on>
+        <type>Mobile UI Rule Action</type>
+        <update_guid>77325f128e3b9110d595cc7a1c048f4d</update_guid>
+        <update_guid_history>77325f128e3b9110d595cc7a1c048f4d:-1606564272</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 15:13:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_rule_action">sys_sg_ui_rule_action</sys_db_object>
+        <sys_id>2e70109333ef4734b512982635646ce4</sys_id>
+        <sys_metadata>fb325f12973b9110ec97fbafe153af4b</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Skills Management Mobile" source="x_557984_skills_ma">fe070e5e97f39110ec97fbafe153afa5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skills Management Mobile">fe070e5e97f39110ec97fbafe153afa5</sys_scope>
+        <sys_scope_delete display_value="">3b1b304fb41d4560a7c7c8d5e768a2e9</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_rule_action_fb325f12973b9110ec97fbafe153af4b</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_rule_action_fb325f12973b9110ec97fbafe153af4b">3f325f12973b9110ec97fbafe153af4d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
